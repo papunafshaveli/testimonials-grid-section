@@ -43,3 +43,23 @@
   opacity: 70%;
   font-weight: 600;
 }
+
+@media screen and (min-width: 1440px) {
+  .fourth {
+    position: absolute;
+    padding: 3.2rem;
+    max-width: none;
+    width: 650px;
+    top: 40rem;
+    left: 36rem;
+  }
+
+  .info-blackish {
+    font-size: 2.4rem;
+  }
+
+  .description-blackish {
+    font-size: 1.6rem;
+    line-height: 1.45;
+  }
+}

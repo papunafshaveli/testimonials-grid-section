@@ -39,3 +39,19 @@
   color: hsl(210, 46%, 95%);
   opacity: 70%;
 }
+
+@media screen and (min-width: 1440px) {
+  .second {
+    padding: 3.2rem;
+    max-width: 20%;
+    height: 37rem;
+  }
+
+  .info-grey {
+    font-size: 2.4rem;
+  }
+
+  .description-grey {
+    font-size: 1.7rem;
+  }
+}

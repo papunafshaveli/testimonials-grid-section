@@ -3,6 +3,7 @@
   border-radius: 0.8rem;
   padding: 2.4rem;
   max-width: 37.5rem;
+  position: relative;
 }
 
 .profile-div {
@@ -42,4 +43,21 @@
   color: hsl(210, 46%, 95%);
   opacity: 70%;
   font-weight: 600;
+}
+
+@media screen and (min-width: 1440px) {
+  .first {
+    background-color: hsl(263, 55%, 52%);
+    padding: 3.2rem;
+    max-width: 50%;
+    height: 37rem;
+  }
+
+  .info {
+    font-size: 2.5rem;
+  }
+
+  .description {
+    font-size: 1.8rem;
+  }
 }

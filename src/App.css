@@ -26,3 +26,17 @@ body {
   flex-direction: column;
   gap: 2.4rem;
 }
+
+@media screen and (min-width: 1440px) {
+  body {
+    justify-content: center;
+    max-width: 1440px;
+  }
+
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 3.2rem;
+  }
+}

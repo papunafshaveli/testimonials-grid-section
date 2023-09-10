@@ -40,3 +40,20 @@
   opacity: 70%;
   font-weight: 600;
 }
+
+@media screen and (min-width: 1440px) {
+  .fifth {
+    padding: 3.2rem;
+    max-width: 25%;
+    height: 72.56rem;
+  }
+
+  .info-secondwhite {
+    font-size: 2.5rem;
+  }
+
+  .description-secondwhite {
+    font-size: 1.7rem;
+    line-height: 1.5;
+  }
+}
