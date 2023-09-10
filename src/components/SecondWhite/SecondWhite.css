@@ -1,0 +1,42 @@
+.fifth {
+  background-color: white;
+  border-radius: 0.8rem;
+  padding: 2.4rem;
+  max-width: 37.5rem;
+}
+
+.profile-div-secondwhite {
+  gap: 1.8rem;
+  display: flex;
+  margin-bottom: 2.4rem;
+}
+
+.profile-image-secondwhite {
+  width: 3.3rem;
+  border-radius: 3.3rem;
+  border: 0.1rem solid hsl(0, 0%, 81%);
+}
+
+.name-secondwhite {
+  color: hsl(217, 19%, 35%);
+  font-size: 1.4rem;
+}
+
+.status-secondwhite {
+  color: hsl(217, 19%, 35%);
+  opacity: 50%;
+  font-size: 1.3rem;
+}
+
+.info-secondwhite {
+  color: hsl(217, 19%, 35%);
+  font-size: 2rem;
+  margin-bottom: 2.4rem;
+}
+
+.description-secondwhite {
+  font-size: 1.4rem;
+  color: hsl(217, 19%, 35%);
+  opacity: 70%;
+  font-weight: 600;
+}
